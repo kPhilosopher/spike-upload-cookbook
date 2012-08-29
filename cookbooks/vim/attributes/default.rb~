@@ -1,0 +1,3 @@
+#node.set['jokes'] = {"Scott" => "Jin is being punished by puns, changed."}
+#node.set['jokes'] = "Jin is being punished by puns"
+node.set['personNames'] = {"ubuntu01" => "Scott", "ubuntu02" => "Kim"}

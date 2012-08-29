@@ -1,0 +1,1 @@
+<%= node[:fqdn] %> should have the following <%= @puns %> with <%= @person %>.
